@@ -1,0 +1,17 @@
+[project]
+name = "kringing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib",
+    "scikit-learn",
+    "geopandas",
+    "numpy",
+    "scipy", 
+    "matplotlib",
+    "pykrige",
+    "pandas",
+    "rasterio"
+]
